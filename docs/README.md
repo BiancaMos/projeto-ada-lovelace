@@ -8,7 +8,11 @@
 
 # 👩🏻‍💻 Website about the life of - [Ada Lovelace](https://pt.wikipedia.org/wiki/Ada_Lovelace)
 
-Augusta Ada Byron King, Condessa de Lovelace (nascida Byron, 10 de dezembro de 1815 — 27 de novembro de 1852), atualmente conhecida como Ada Lovelace, foi uma matemática e escritora inglesa. Hoje é reconhecida principalmente por ter escrito o primeiro algoritmo para ser processado por uma máquina, a máquina analítica de Charles Babbage.
+Augusta Ada Byron King, Countess of Lovelace (née Byron, 10 December 1815 – 27 November 1852), now known as Ada Lovelace, was an English mathematician and author. She is today recognized mainly for having written the first algorithm to be processed by a machine, Charles Babbage's Analytical Engine.
+
+During the time she was involved with Babbage's project, she developed the algorithms that would allow the machine to compute the values of mathematical functions, as well as publishing a collection of notes on the Analytical Engine. For this work she is considered the first programmer in all history.
+
+PT-BR: Augusta Ada Byron King, Condessa de Lovelace (nascida Byron, 10 de dezembro de 1815 — 27 de novembro de 1852), atualmente conhecida como Ada Lovelace, foi uma matemática e escritora inglesa. Hoje é reconhecida principalmente por ter escrito o primeiro algoritmo para ser processado por uma máquina, a máquina analítica de Charles Babbage.
 
 Durante o período em que esteve envolvida com o projeto de Babbage, ela desenvolveu os algoritmos que permitiriam à máquina computar os valores de funções matemáticas, além de publicar uma coleção de notas sobre a máquina analítica. Por esse trabalho é considerada a primeira programadora de toda a história.
 
